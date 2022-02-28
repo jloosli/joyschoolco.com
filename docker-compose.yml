@@ -1,0 +1,17 @@
+version: '3.7'
+
+services:
+  server:
+    image: klakegg/hugo:ext
+    command: server
+#    pull_policy: always
+    volumes:
+      - ".:/src"
+    ports:
+      - "1313:1313"
+
+  build:
+    image: klakegg/hugo:ext
+    command: build
+    volumes:
+      - ".:/src"
