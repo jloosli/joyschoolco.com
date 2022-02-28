@@ -12,6 +12,6 @@ services:
 
   build:
     image: klakegg/hugo:ext
-    command: build
+    command: mod init github.com/jloosli/joyschoolco.com
     volumes:
       - ".:/src"
