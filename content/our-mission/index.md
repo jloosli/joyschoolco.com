@@ -1,5 +1,6 @@
 ---
 title: Our Mission
+menu: main
 ---
 # Our Mission is threefold
 

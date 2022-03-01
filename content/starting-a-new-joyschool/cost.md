@@ -1,5 +1,6 @@
 ---
-title: Cost of starting up a Joyschool
+title: Cost of starting up a Joy School
+weight: 200
 ---
 ## ONE-TIME START-UP FEES
 

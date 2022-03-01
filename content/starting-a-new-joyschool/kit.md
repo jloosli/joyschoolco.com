@@ -1,5 +1,6 @@
 ---
 title: Start-up Kit Contents
+weight: 400
 ---
 Once you have applied and are accepted as a Joy School operator and have paid your start-up fee, you will be set up for immediate access to the comprehensive instructions and forms you’ll need to run your Joy School.
 

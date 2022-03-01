@@ -1,5 +1,6 @@
 ---
 title: Suggested Start-up Timeline
+weight: 300
 ---
 _(for a September start-up)_
 
