@@ -1,6 +1,9 @@
 baseURL = 'https://joyschoolco.com/'
 languageCode = 'en-us'
 title = 'The Joy School Curriculum Company'
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 [module]
 [[module.imports]]
 disable = false
