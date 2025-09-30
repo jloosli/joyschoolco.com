@@ -1,5 +1,5 @@
 module github.com/jloosli/joyschoolco.com
 
-go 1.17
+go 1.25.1
 
-require github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20220228160000-0e73c5b18cf6 // indirect
+require github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.12.1 // indirect

@@ -1,14 +1,13 @@
-version: '3.7'
-
+name: joyschoolco.com site
 services:
   server:
-    image: klakegg/hugo:ext
-    command: server
-#    pull_policy: always
+    image: hugomods/hugo:exts-non-root
+    command: server -D
     volumes:
-      - ".:/src"
+      - ./:/src
+      - ~/hugo_cache:/tmp/hugo_cache
     ports:
-      - "1313:1313"
+      - 1313:1313
 
   build:
     image: klakegg/hugo:ext

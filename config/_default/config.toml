@@ -1,4 +1,9 @@
 baseURL = 'https://joyschoolco.com/'
 languageCode = 'en-us'
 title = 'The Joy School Curriculum Company'
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+[module]
+[[module.imports]]
+disable = false
+ignoreConfig = false
+ignoreImports = false
+path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
