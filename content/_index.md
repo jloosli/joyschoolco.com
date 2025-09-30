@@ -6,12 +6,12 @@ Do you love to work with children? Would you like to make some extra money?
 
 Have you thought about starting your own preschool but haven’t quite known where to start?
 
-Would you like to enhance the curriculum at your existing preschool with the internationally-acclaimed [Joy School Curriculum](/questions-and-answers/whats-great-about-the-joy-school-curriculum/)?
+Would you like to enhance the curriculum at your existing preschool with the internationally-acclaimed [Joy School Curriculum](/common-questions/what-is-great-about-joyschool)?
 
 Do you want to offer meaningful thematic units and fun music that teaches children social skills, values and pre-academic skills?
 
 If so, you’re in the right place!
-We work in partnership with [PowerofFamilies.com](https://poweroffamilies.com/) and [Valuesparenting.com](https://valuesparenting.com/) to help you create:
+We work in partnership with [Power of Families](https://poweroffamilies.com/) and [Values Parenting](https://valuesparenting.com/) to help you create:
 
 * A Brand New Joy School: We provide start-up materials, instructions, complete lesson plans (including visual aids, children’s music, and materials to keep parents’ involved), and support to help you create your own high-quality preschool (in-home preschool or stand-alone preschool). By running a Joy School you will be able to use your talents to make a real difference in your community while also making extra money.
 * A Joy-School Enhanced Preschool: We provide complete lesson plans (including visual aids, children’s music, and materials to keep parents’ involved) and support for those who’d like to add the exciting Joy School curriculum to an existing preschool program

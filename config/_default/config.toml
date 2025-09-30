@@ -1,6 +1,8 @@
 baseURL = 'https://joyschoolco.com/'
 languageCode = 'en-us'
 title = 'The Joy School Curriculum Company'
+[pagination]
+  pagerSize = 20
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
@@ -10,3 +12,8 @@ disable = false
 ignoreConfig = false
 ignoreImports = false
 path = 'github.com/theNewDynamic/gohugo-theme-ananke/v2'
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
